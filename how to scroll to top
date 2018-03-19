@@ -1,4 +1,4 @@
-<<javaSript>> (from w3schools)
+/* <<javaSript (from w3schools)>> */
 
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
@@ -18,7 +18,7 @@ function topFunction() {
 }
 
 
-<<jQuery>>
+/* <<jQuery>> */
 
 $(window).scroll(function (){
   if ($(this).scrollTop() > 100) {
